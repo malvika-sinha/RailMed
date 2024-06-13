@@ -1,24 +1,70 @@
-# RailMed
-The RailMed app offers an easy, efficient way to book appointments and access healthcare services. It improves scheduling, notifications, and specialized care access, enhancing patient experience and healthcare efficiency for railway employees and their families.
-The development of the RailMed app addresses these challenges by offering a seamless, efficient, and user-friendly platform for booking appointments and accessing various healthcare facilities. Patients can easily schedule appointments, receive timely notifications, and access specialized medical services without the hassles associated with traditional booking methods. This app not only improves the overall patient experience but also enhances the efficiency of the healthcare system within the railway network. By leveraging technology, RailMed ensures that railway employees and their families receive timely and quality healthcare, ultimately leading to better health outcomes and increased patient satisfaction
+# Getting Started with Create React App
 
-## TECK STACK
-Frontend: React
-React is a popular JavaScript library for building user interfaces, especially single-page applications. It allows for the creation of reusable UI components.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-React: For building the user interface and handling the view layer of the application.
-React Router: For managing navigation within the app.
-Redux or Context API: For state management, to manage and share application state across components.
-Axios: For making HTTP requests to the backend API.
-Bootstrap: For pre-styled components and faster UI development.
+## Available Scripts
 
-## TO BE ADDED NEXT
-Backend: Node.js and Express.js
+In the project directory, you can run:
 
-Node.js: Server-side runtime environment to run JavaScript on the backend.
-Express.js: Web framework for Node.js to create server-side logic and handle API routes.
-Mongoose: Object Data Modeling (ODM) library for MongoDB and Node.js. It manages relationships between data, provides schema validation, and translates between objects in code and MongoDB documents.
+### `npm start`
 
-Database: MongoDB
-MongoDB is a NoSQL database known for its flexibility and scalability, which stores data in JSON-like documents.
-Mongoose: To interact with MongoDB, providing a straightforward schema-based solution to model application data.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

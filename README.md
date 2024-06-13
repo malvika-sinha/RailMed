@@ -1,5 +1,5 @@
 <h1 align="left">🫀RailMed</h1>
-The RailMed app addresses these challenges by providing a seamless, user-friendly platform for booking appointments and accessing healthcare services. It simplifies scheduling, sends timely notifications, and offers access to specialized care. This app enhances patient experience, improves healthcare efficiency, and ensures timely, quality care for railway employees and their families, leading to better health outcomes and increased satisfaction.
+The RailMed app addresses these challenges by providing a seamless, user-friendly platform specially for Railway hospitals and assistance to the patients, for booking appointments and accessing healthcare services. We know that there are lots of medical related websites/apps are built but realised lately that there's no such websites for Railway Hospitals due to which ptients could not able to meet the necessary requirements ,causing long-waits for thh healthcare. Henceforth RailMed simplifies scheduling, sends timely notifications, and offers access to specialized care. It enhances patient experience, improves healthcare efficiency, and ensures timely, quality care for railway employees and their families, leading to better health outcomes and increased satisfaction.
 
 ## 👉🏻TECH STACK:
 Frontend: React

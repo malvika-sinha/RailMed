@@ -12,7 +12,7 @@ Redux or Context API: For state management, to manage and share application stat
 Axios: For making HTTP requests to the backend API.
 Bootstrap: For pre-styled components and faster UI development.
 
-## TO BE ADDED NEXT:
+## TO BE ADDED NEXT
 Backend: Node.js and Express.js
 
 Node.js: Server-side runtime environment to run JavaScript on the backend.

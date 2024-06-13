@@ -2,7 +2,7 @@
 The RailMed app offers an easy, efficient way to book appointments and access healthcare services. It improves scheduling, notifications, and specialized care access, enhancing patient experience and healthcare efficiency for railway employees and their families.
 The development of the RailMed app addresses these challenges by offering a seamless, efficient, and user-friendly platform for booking appointments and accessing various healthcare facilities. Patients can easily schedule appointments, receive timely notifications, and access specialized medical services without the hassles associated with traditional booking methods. This app not only improves the overall patient experience but also enhances the efficiency of the healthcare system within the railway network. By leveraging technology, RailMed ensures that railway employees and their families receive timely and quality healthcare, ultimately leading to better health outcomes and increased patient satisfaction
 
-TECK STACK:
+##TECK STACK:
 Frontend: React
 React is a popular JavaScript library for building user interfaces, especially single-page applications. It allows for the creation of reusable UI components.
 
@@ -12,7 +12,7 @@ Redux or Context API: For state management, to manage and share application stat
 Axios: For making HTTP requests to the backend API.
 Bootstrap: For pre-styled components and faster UI development.
 
-TO BE ADDED NEXT:
+##TO BE ADDED NEXT:
 Backend: Node.js and Express.js
 
 Node.js: Server-side runtime environment to run JavaScript on the backend.

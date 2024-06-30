@@ -1,5 +1,7 @@
 <h1 align="left">🫀RailMed</h1>
 The RailMed app addresses these challenges by providing a seamless, user-friendly platform specially for Railway hospitals and assistance to the patients, for booking appointments and accessing healthcare services. We know that there are lots of medical related websites/apps are built but realised lately that there's no such websites for Railway Hospitals due to which ptients could not able to meet the necessary requirements ,causing long-waits for thh healthcare. Henceforth RailMed simplifies scheduling, sends timely notifications, and offers access to specialized care. It enhances patient experience, improves healthcare efficiency, and ensures timely, quality care for railway employees and their families, leading to better health outcomes and increased satisfaction.
+<div align="center"> <img src="https://i.postimg.cc/tTFL7R93/Screenshot-2024-06-30-154050.png" alt="Logo" width="900" height="500"> </div>
+<div align="center"> <img src="https://i.postimg.cc/8C7J65Xr/Screenshot-2024-06-30-154139.png" alt="Logo" width="900" height="500"> </div>
 
 ## 👉🏻TECH STACK:
 Frontend: React
@@ -11,6 +13,8 @@ Redux or Context API: For state management, to manage and share application stat
 Axios: For making HTTP requests to the backend API.
 Bootstrap: For pre-styled components and faster UI development.
 
+<div align="center"> <img src="https://i.postimg.cc/tTFL7R93/Screenshot-2024-06-30-154050.png" alt="Socieful Logo" width="900" height="500"> </div>
+<div align="center"> <img src="https://i.postimg.cc/tTFL7R93/Screenshot-2024-06-30-154050.png" alt="Socieful Logo" width="900" height="500"> </div>
 <div align="center"> <img src="https://i.postimg.cc/tTFL7R93/Screenshot-2024-06-30-154050.png" alt="Socieful Logo" width="900" height="500"> </div>
 
 ## 👉🏻UPCOMING TECH STACK TO BE USED:
